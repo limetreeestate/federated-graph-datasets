@@ -1,0 +1,127 @@
+Converting to graph 
+
+
+
+ 
+Reading partitions 
+
+
+
+ 
+Preparing org nodes
+ 
+global nodes: 81306 
+org 1 nodes: 55785 
+org 2 nodes: 53278 
+org 3 nodes: 53553 
+
+
+
+ 
+Reading feature headers 
+Feature headers read 
+
+
+
+ 
+Compute common features: HIGH threshold: 45 
+selected common attr: 1232 
+global attr: 1499 
+org 1 attr: 1321 
+org 2 attr: 1321 
+org 3 attr: 1321 
+
+
+
+Instantiating node feature vectors HIGH 
+Writing org 1 selected features to file HIGH 
+Writing org 2 selected features to file HIGH 
+Writing org 3 selected features to file HIGH 
+Writing global selected features to file HIGH 
+
+
+ 
+Writing organization 1 attributes HIGH 
+Writing organization 2 attributes HIGH 
+Writing organization 3 attributes HIGH 
+Writing Global attributes HIGH 
+Writing Common entity attributes HIGH 
+
+
+
+ 
+Compute common features: MID threshold: 59 
+selected common attr: 740 
+global attr: 1499 
+org 1 attr: 993 
+org 2 attr: 993 
+org 3 attr: 993 
+
+
+
+Instantiating node feature vectors MID 
+Writing org 1 selected features to file MID 
+Writing org 2 selected features to file MID 
+Writing org 3 selected features to file MID 
+Writing global selected features to file MID 
+
+
+ 
+Writing organization 1 attributes MID 
+Writing organization 2 attributes MID 
+Writing organization 3 attributes MID 
+Writing Global attributes MID 
+Writing Common entity attributes MID 
+
+
+
+ 
+Compute common features: LOW threshold: 93 
+selected common attr: 301 
+global attr: 1498 
+org 1 attr: 700 
+org 2 attr: 700 
+org 3 attr: 700 
+
+
+
+Instantiating node feature vectors LOW 
+Writing org 1 selected features to file LOW 
+Writing org 2 selected features to file LOW 
+Writing org 3 selected features to file LOW 
+Writing global selected features to file LOW 
+
+
+ 
+Writing organization 1 attributes LOW 
+Writing organization 2 attributes LOW 
+Writing organization 3 attributes LOW 
+Writing Global attributes LOW 
+Writing Common entity attributes LOW 
+
+
+
+ 
+Creating organisation edgelists 
+Partition edges 1 576215 
+Partition edges 2 497984 
+Partition edges 3 608850 
+
+
+
+ 
+Preparing org 1 edgelist 
+Preparing org 2 edgelist 
+Preparing org 3 edgelist 
+Global graph edgelist 
+global edges: 1757515 
+org 1 edges: 990961 
+org 2 edges: 885412 
+org 3 edges: 935273 
+Writing global graph edgelist 
+Writing organization 1 edgelist 
+Writing organization 2 edgelist 
+Writing organization 3 edgelist 
+Writing organization 1 common nodes' edgelist 
+Writing organization 2 common nodes' edgelist 
+Writing organization 3 common nodes' edgelist 
